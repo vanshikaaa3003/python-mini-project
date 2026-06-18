@@ -1,3 +1,4 @@
+This was a college assignment. I am now going back to understand every line of it.
 This is for the code in python programming 
 # 🔐 Simple Password Generator (Python)
 
